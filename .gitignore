@@ -1,6 +1,7 @@
 config.yaml
 credentials.json
 token.json
+cue_project_brief.md
 __pycache__/
 *.pyc
 .venv/
